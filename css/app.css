@@ -265,7 +265,7 @@ main{
   
 }
 .cajatituloinicio{
-  margin-bottom: -436px;
+  margin-bottom: -180px;
 }
 .cajatituloinicio h1{
   /* font-family: 'Pacifico', cursive; */
@@ -372,7 +372,7 @@ li{
   margin-top: 15px;
 }
 .datos h3{
-  font-size: 1.95em;
+  font-size: 1.5em;
   padding-bottom: 15px;
 }
 .datos a{
