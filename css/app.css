@@ -265,7 +265,7 @@ main{
   
 }
 .cajatituloinicio{
-  margin-bottom: -350px;
+  margin-bottom: -250px;
 }
 .cajatituloinicio h1{
   /* font-family: 'Pacifico', cursive; */
@@ -275,7 +275,7 @@ main{
   display: flex;
   justify-content:center;
   align-items: center;
-  font-size: 4.9vh;
+  font-size: 2.99vh;
   color:rgb(255, 0, 221);
   text-align: center;
 }
